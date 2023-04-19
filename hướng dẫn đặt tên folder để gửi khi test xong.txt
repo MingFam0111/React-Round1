@@ -1,0 +1,7 @@
+cú pháp 
+
+Tên người làm - tên nhóm - ( thời gian làm, giờ-phút-giây )
+
+vd
+SƠN-F5-(01-40-50).rarr
+=> sau đó nén lại và gửi lên nhóm zalo
